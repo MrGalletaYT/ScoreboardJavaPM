@@ -1,0 +1,30 @@
+{
+  "header": {
+    "uuid": "2da31363-b275-4b93-b8c4-8a2c56a338b3",
+    "name": "ScoreboardJavaPM",
+    "description": "https://dsc.gg/pocketdevs",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      2,
+      6
+    ]
+  },
+  "modules": [
+    {
+      "description": "https://dsc.gg/pocketdevs",
+      "version": [
+        0,
+        0,
+        1
+      ],
+      "uuid": "576b3ee6-82dd-42e8-ab32-4a1e02e4ec41",
+      "type": "resources"
+    }
+  ],
+  "format_version": 1
+}
