@@ -1,0 +1,15 @@
+{
+    "$1_color_format": [ 0.294, 0.470, 0.705 ],
+    "$3_color_format": [ 0.392, 0.690, 0.690 ],
+    "$4_color_format": [ 0.784, 0.196, 0.196 ],
+    "$6_color_format": [ 0.90, 0.66, 0.24 ],
+    "$7_color_format": [ 0.667, 0.667, 0.667 ],
+    "$8_color_format": [ 0.333, 0.333, 0.333 ],
+    "$9_color_format": [ 0.28, 0.40, 0.88 ],
+    "$a_color_format": [ 0.333, 1.0, 0.333 ],
+    "$b_color_format": [ 0.509, 1.0, 1.0 ],
+    "$c_color_format": [ 1.0, 0.333, 0.333 ],
+    "$d_color_format": [ 1.0, 0.333, 1.0 ],
+    "$e_color_format": [ 1.0, 1.0, 0.333 ],
+    "$f_color_format": [ 1.0, 1.0, 1.0 ]
+}
