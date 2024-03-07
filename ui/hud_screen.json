@@ -1,0 +1,14 @@
+{
+  "item_name_text_root": {
+    "$show_text_background|default": true
+  },
+  "item_name_text_root/item_text_aligner/item_text_control/item_text_label": {
+    "shadow": true
+  },
+  "hud_tip_text/item_text_label": {
+    "shadow": true
+  },
+  "hud_actionbar_text/actionbar_message": {
+    "shadow": true
+  }
+}
