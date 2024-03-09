@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">black - short line: <br>black - long line: <br> <br>gray - short line: <br>gray - long line: <br> <br>blue - short line: <br>blue - long line: <br> <br>white - short line: <br>white - long line: <br><br>red - short line: <br>red - long line: <br><br>green - short line: <br>green - long line: <br><br>yellow - short line: <br>yellow - long line:  <br> <br>pink - short line: <br>pink - long line: </p>
+<strong align="left">black - short line: <br>black - long line: <br> <br>gray - short line: <br>gray - long line: <br> <br>blue - short line: <br>blue - long line: <br> <br>white - short line: <br>white - long line: <br><br>red - short line: <br>red - long line: <br><br>green - short line: <br>green - long line: <br><br>yellow - short line: <br>yellow - long line:  <br> <br>pink - short line: <br>pink - long line: </strong>
 
 ###
 
